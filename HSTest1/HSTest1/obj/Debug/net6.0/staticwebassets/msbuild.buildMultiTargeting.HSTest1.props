@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HSTest1.props" />
+</Project>
